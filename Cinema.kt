@@ -75,7 +75,7 @@ fun main() {
             0 -> println()
             else -> println("Invalid input!")
         }
-    }while (userInput != 0)
+    } while (userInput != 0)
 
 
 }
